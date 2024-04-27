@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umerkhalid0&label=Profile%20views&color=0e75b6&style=flat" alt="umerkhalid0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umerkhalid0" alt="umerkhalid0" /></a> </p>
-
 - 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **my skills and passion**
